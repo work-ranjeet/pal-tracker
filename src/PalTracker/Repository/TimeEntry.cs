@@ -2,7 +2,7 @@ using System;
 
 namespace PalTracker
 {
-    public struct  TimeEntry
+    public struct TimeEntry
     {
          public long? Id { get; set; }
         public long ProjectId { get; set; }
