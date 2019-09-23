@@ -1,0 +1,1 @@
+URL : ./gradlew cloudNativeDeveloperSimpleApp -PserverUrl=https://pal-tracker-wacky-bandicoot.cfapps.io
